@@ -12,3 +12,12 @@ def sample_province_data
     price: 20
   }
 end
+
+def string_province_data
+  {
+    name: "String producers",
+    producers: "",
+    demand: 30,
+    price: 20
+  }
+end
